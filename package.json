@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/avivaliu/hack2015/issues"
   },
-  "homepage": "https://github.com/avivaliu/hack2015"
+  "homepage": "https://github.com/avivaliu/hack2015",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "crypto": "0.0.3",
+    "express": "^4.12.4",
+    "mkdirp": "^0.5.1"
+  }
 }
