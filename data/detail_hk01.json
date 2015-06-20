@@ -1,0 +1,41 @@
+{
+	"id": "travellog01":[
+	{
+		"media":["blogs/images/hk1/shopping1.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 8:10am"
+	},{
+		"media":["blogs/images/hk1/shopping2.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 10:00am"
+	},,{
+		"media":["blogs/images/hk1/shopping3.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 12:00am"
+	},{
+		"media":["blogs/images/hk1/shopping4.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 2:30pm"
+	},{
+		"media":["blogs/images/hk1/shopping5.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 4:00pm"
+	},{
+		"media":["blogs/images/hk1/shopping6.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 6:30pm"
+	},{
+		"media":["blogs/images/hk1/shopping7.jpg"],
+		"content":"",
+		"location":"",
+		"time":"2015/04/01 9:00pm"
+	}],
+	"author": "Angela Wang",
+	"summary": "HK is a wonderful Asia place for shopping. Theres no tax here.... Everyday SALE, new arriving and classic products, small and full of store...bla...................."
+}

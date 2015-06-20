@@ -1,0 +1,82 @@
+[{
+	"location": "HK",
+	"title": "shopping heaven: HK",
+	"cover_media": "blogs/images/hk1/main.jpg",
+	"date": "2015/04/01",
+	"article_url": "blogs/travellog01",
+	"id":"travellog01",
+	"author":"Angela Wang",
+	"description": "HK is a wondoerful Asia place for shopping. Theres no tax here.... Everyday SALE, new arriving and classic products, small and full of store...bla...................."
+},{
+	"location": "Greece",
+	"title": "beautiful blue",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "Greece is strategically located at the crossroads of Europe, Asia, and Africa. Situated on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, the Republic of Macedonia and Bulgaria to the north and Turkey to the northeast. "
+},{
+	"location": "Bangkok",
+	"title": "Food Paradise",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "The dining scene in Bangkok is constantly changing. Every time we visit the city, besides revisiting our favourite places, there are always new restaurants and cafes to check out. With an impressive choice of eateries and the endless offerings, it is little wonder why Bangkok is a destination for those who anticipate a culinary adventure."
+},{
+	"location": "Paris",
+	"title": "City of lights and romance",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "Ah, the city of lights, of love and all things lyrical – what’s not to like? Beautiful cities are aplenty, but Paris has a certain je ne sais quoi that draws you in, keeps you enthralled and makes you yearn for more. Little wonder that it constantly tops the list of “Most Visited Cities in the World”.. "
+},{
+	"location": "Beijing",
+	"title": "Great Wall of China",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "“He who has not climbed the Great Wall is not a true man.” Mao Zedong. Since we were in China, there was no doubt in our minds that we had to see the 4th Wonder Of The World, The Great Wall Of China!  Building the wall took hundreds of thousands of workers and many perished during this effort; people even say that the bones of the deceased workers were used to build the wall!"
+},{
+	"location": "Japan",
+	"title": "Cherry Blossoms",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Micheal Jodan",
+	"id":"travellog02",
+	"description": "A visit to Japan during sakura (cherry blossom) season is a rare pleasure, and highly recommended. Although the weather can be chilly and damp, the hotels full and the streets clogged with revelers, the sight of the delicate blossoms and their intoxicating effect on the people make for a wonderful experience. I had thought it was sentimental hype until I found myself in Kyoto one year during the height of cherry blossom season."
+},{
+	"location": "Brazil",
+	"title": "Copacabana Beach",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "Finally I am at the world famous Copacabana beach enjoying my long deserved suntan and getting away from the stress at work. With so many good looking and hot people around me, I am sure my week here will be a pleasant one.  "
+	},{
+	"location": "North Korea",
+	"title": "North Korea",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": "Travelling 7 days in North Korea, taking in all the sights and sounds of Pyongyang, standing at the other side of the demilitarized zone when I was at the south side just a year ago, truly an eye opener. "
+},{
+	"location": "Silicon Valley",
+	"title": "Tech World",
+	"cover_media": "blogs/images/Greece1/main.jpg",
+	"date": "2015/04/02",
+	"article_url": "blogs/travellog02",
+	"author":"Louis Law",
+	"id":"travellog02",
+	"description": " Home to the biggest names in the tech world such as Apple, Google and even Facebook, Silicon Valley is truly a place where innovation and creativity is born. Every cafe that I have visited, restaurants that I have patronized, people are talking about ideas and creating the next billion dollar idea. "
+}]
