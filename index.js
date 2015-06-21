@@ -9,12 +9,12 @@ var newsfeed, details;
 fs.readFile('data/newsfeed.json','utf8',function(err, data){
 	if(err){
 		return console.log(err);
-	}newsfeed = data;
+	}newsfeed = JSON.parse(data);
 });
 fs.readFile('data/detail_hk01.json','utf8',function(err, data){
 	if(err){
 		return console.log(err);
-	}details = data;
+	}details = JSON.parse(data);
 });
  
 app.use(bodyParser.json());

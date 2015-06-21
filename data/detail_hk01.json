@@ -1,5 +1,6 @@
 {
-	"id": "travellog01":[
+	"id": "travellog01",
+	"items": [
 	{
 		"media":["blogs/images/hk1/shopping1.jpg"],
 		"content":"",
@@ -10,7 +11,7 @@
 		"content":"",
 		"location":"",
 		"time":"2015/04/01 10:00am"
-	},,{
+	},{
 		"media":["blogs/images/hk1/shopping3.jpg"],
 		"content":"",
 		"location":"",
