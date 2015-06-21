@@ -22,13 +22,12 @@ app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x
 
 //app
 app.get('/newsfeed', function(req, res) {
-    res.send(newsfeed);
+    res.json(newsfeed);
 });
 app.get('/details/:id', function(req, res) {
-    res.send(details);
+    res.json(details);
 });
 app.post('/composer/:tripname', function(req, res){
-	fileHandler.write(req.body, req.params.tripname)
 	res.json(req.body);
 });
 
