@@ -2,6 +2,7 @@ var express = require('express');
 var fs = require('fs');
 var bodyParser = require('body-parser');
 var fileHandler = require('./fileHandler.js');
+var path = require('path');
 
 var app = express();
 var newsfeed, details;
@@ -17,6 +18,7 @@ fs.readFile('data/detail_hk01.json','utf8',function(err, data){
 	}details = JSON.parse(data);
 });
  
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 
